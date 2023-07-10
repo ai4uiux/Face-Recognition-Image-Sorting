@@ -18,12 +18,11 @@ The script uses the face_recognition library to detect faces in images and group
 
 ## Dependencies
 
-- face_recognition
-- scikit-learn
-- tkinter
-- tqdm
-- PIL
-- imagehash
+- pip install face_recognition
+- pip install scikit-learn
+- pip install pillow
+- pip install tqdm
+- pip install imagehash
 
 ## Contributing
 
